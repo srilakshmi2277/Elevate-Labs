@@ -72,9 +72,19 @@ Here, in this task, I used **Nmap** to perform TCP SYN scans on local networks i
   
 **Full PDF Report:** [Task 8 - Working with VPNs.](https://drive.google.com/file/d/1l7QqZlvL_3h3cXbENcD7Fq1I0BXhsMsM/view?usp=drive_link)
 
+---
 
 
 # Project Phase Update
+
+## Network Packet Sniffer with Alert System
+
+A security-focused tool designed to monitor live network traffic, capture packets, and detect suspicious behavior such as port scanning or flooding. The system analyzes packet headers in real-time and generates alerts for anomalies, helping enhance intrusion detection at the network layer. Ideal for learning about low-level traffic analysis and alert logic.
+
+**GitHub Repository:** [NPS Alert System](https://github.com/srilakshmi2277/Elevate-Labs-Project-Phase)
+
+**Project Report**: [Link for project report document.](https://drive.google.com/file/d/1e8BbiYGzxPCbNg8ZKhVWS9ZnnIiPUCG9/view?usp=drive_link)
+
 
 
 
